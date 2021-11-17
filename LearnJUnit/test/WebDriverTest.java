@@ -1,6 +1,7 @@
 import org.junit.*;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.By;
 import static org.junit.Assert.*;
 
 public class WebDriverTest {
@@ -22,8 +23,8 @@ public class WebDriverTest {
     @Test
     public void test(){
         driver.get(url+"/"); //打开百度首页
-//        driver.findElement(By.id("kw")).sendKeys("JUnit"); //在搜索框中输入"JUnit"
-//        driver.findElement(By.id("su")).click(); //点击”百度一下”按钮
+        driver.findElement(By.id("kw")).sendKeys("JUnit"); //在搜索框中输入"JUnit"
+        driver.findElement(By.id("su")).click(); //点击”百度一下”按钮
     }
 
 }
