@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36cf278f-dfd1-4cca-93b5-4575c4bc0d0e" name="Default Changelist" comment="" />
+    <list default="true" id="36cf278f-dfd1-4cca-93b5-4575c4bc0d0e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/WebDriverTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,10 +22,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -42,6 +51,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="212XciR7qC59NrfjiW1BZNp3kic" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,14 +59,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -65,8 +77,11 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\86198\Desktop\Software Testing Technology\LearnJUnit\src\main\resources" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTest">
+  <component name="RunManager" selected="JUnit.WebDriverTest.test">
     <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LearnJUnit" />
       <option name="PACKAGE_NAME" value="" />
@@ -86,8 +101,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WebDriverTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LearnJUnit" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WebDriverTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.WebDriverTest.test" />
         <item itemvalue="JUnit.CalculatorTest" />
         <item itemvalue="JUnit.CalculatorTest.testDivideByZero" />
       </list>
@@ -103,7 +129,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637140237504</updated>
-      <workItem from="1637140241117" duration="2843000" />
+      <workItem from="1637140241117" duration="5869000" />
     </task>
     <servers />
   </component>
@@ -111,22 +137,34 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1227" height="66" key="GridCell.Tab.0.bottom" timestamp="1637152742600">
+    <state x="143" y="0" key="#All_in_LearnJUnit" timestamp="1637155767174">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1227" height="66" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1637152742600" />
-    <state width="1227" height="66" key="GridCell.Tab.0.center" timestamp="1637152742599">
+    <state x="143" y="0" key="#All_in_LearnJUnit/0.0.1280.680@0.0.1280.680" timestamp="1637155767174" />
+    <state width="1227" height="364" key="GridCell.Tab.0.bottom" timestamp="1637156722905">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1227" height="66" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1637152742599" />
-    <state width="1227" height="66" key="GridCell.Tab.0.left" timestamp="1637152742599">
+    <state width="1227" height="364" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1637156722905" />
+    <state width="1227" height="364" key="GridCell.Tab.0.center" timestamp="1637156722905">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1227" height="66" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1637152742599" />
-    <state width="1227" height="66" key="GridCell.Tab.0.right" timestamp="1637152742600">
+    <state width="1227" height="364" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1637156722905" />
+    <state width="1227" height="364" key="GridCell.Tab.0.left" timestamp="1637156722904">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1227" height="66" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1637152742600" />
+    <state width="1227" height="364" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1637156722904" />
+    <state width="1227" height="364" key="GridCell.Tab.0.right" timestamp="1637156722905">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1227" height="364" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1637156722905" />
+    <state x="59" y="0" key="Maven.ArtifactSearchDialog" timestamp="1637156401607">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="59" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1637156401607" />
+    <state x="11" y="0" key="SettingsEditor" timestamp="1637156256209">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="11" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1637156256209" />
     <state x="390" y="0" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1637150916238">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
