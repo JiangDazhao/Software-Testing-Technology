@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b06d70b-4299-4d52-94f5-173b40b85a62" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../WebDriverTest/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebDriverTest/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebDriverTest/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebDriverTest/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebDriverTest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebDriverTest/WebDriverTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebDriverTest/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebDriverTest/src/main/java/WebTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebDriverTest/src/main/resources/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LearnJUnit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJUnit/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LearnJUnit/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJUnit/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LearnJUnit/test/WebDriverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJUnit/test/WebDriverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestDataDrivenByExcelFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/ExcelUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/dataProvider.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +62,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LearnJUnit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -82,10 +74,24 @@
       <recent name="util" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\86198\Desktop\Software Testing Technology\dataProvider_test\src\main\java" />
+      <recent name="C:\Users\86198\Desktop\Software Testing Technology\dataProvider_test\src\main\java\util" />
       <recent name="C:\Users\86198\Desktop\Software Testing Technology\dataProvider_test\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestDataProviderByCSVFile.test">
+  <component name="RunManager" selected="TestNG.TestDataDrivenByExcelFile.test">
+    <configuration name="TestDataDrivenByExcelFile.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="dataProvider_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestDataDrivenByExcelFile" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestDataProviderByCSVFile" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="dataProvider_test" />
       <option name="PACKAGE_NAME" value="" />
@@ -111,8 +117,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestDataProviderByCSVFile.test" />
+        <item itemvalue="TestNG.TestDataDrivenByExcelFile.test" />
         <item itemvalue="TestNG.TestDataProviderByCSVFile" />
+        <item itemvalue="TestNG.TestDataProviderByCSVFile.test" />
       </list>
     </recent_temporary>
   </component>
@@ -127,6 +134,7 @@
       <option name="presentableId" value="Default" />
       <updated>1637160338040</updated>
       <workItem from="1637160341973" duration="6995000" />
+      <workItem from="1637196669101" duration="504000" />
     </task>
     <servers />
   </component>
@@ -144,6 +152,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="251" y="0" width="796" height="680" key="#TestDataProviderByCSVFile/0.0.1280.680@0.0.1280.680" timestamp="1637163215556" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1637197148614">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1637197148614" />
     <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1637160463850">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -152,21 +164,21 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="38" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1637193731364" />
-    <state width="1227" height="138" key="GridCell.Tab.0.bottom" timestamp="1637195466327">
+    <state width="1227" height="235" key="GridCell.Tab.0.bottom" timestamp="1637197209706">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1227" height="138" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1637195466327" />
-    <state width="1227" height="138" key="GridCell.Tab.0.center" timestamp="1637195466327">
+    <state width="1227" height="235" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1637197209706" />
+    <state width="1227" height="235" key="GridCell.Tab.0.center" timestamp="1637197209705">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1227" height="138" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1637195466327" />
-    <state width="1227" height="138" key="GridCell.Tab.0.left" timestamp="1637195466327">
+    <state width="1227" height="235" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1637197209705" />
+    <state width="1227" height="235" key="GridCell.Tab.0.left" timestamp="1637197209705">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1227" height="138" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1637195466327" />
-    <state width="1227" height="138" key="GridCell.Tab.0.right" timestamp="1637195466327">
+    <state width="1227" height="235" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1637197209704" />
+    <state width="1227" height="235" key="GridCell.Tab.0.right" timestamp="1637197209705">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1227" height="138" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1637195466327" />
+    <state width="1227" height="235" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1637197209705" />
   </component>
 </project>
