@@ -17,7 +17,7 @@ public class WebDriverTest {
     @After
     public void tearDown() throws Exception{
         System.out.println("测试结束");
-        Thread.currentThread().sleep(2000); //等待两秒后再执行
+        Thread.sleep(2000); //等待两秒后再执行
         driver.quit(); // 关闭打开的浏览器
     }
     @Test
