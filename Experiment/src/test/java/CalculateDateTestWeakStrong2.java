@@ -4,7 +4,7 @@ import static org.junit.Assert.assertEquals;
 
 
 public class CalculateDateTestWeakStrong2 {
-    private static CalculateDate calDate = new CalculateDate();
+    private static CalculateDate2 calDate = new CalculateDate2();
     @BeforeClass
     public static void setupBeforClass() throws Exception{
         System.out.println("@BeforeClass");
@@ -51,11 +51,11 @@ public class CalculateDateTestWeakStrong2 {
         calDate.findDay(-1,1,13);
         assertEquals(-1,calDate.getFindday());
     }
-//    @Test
-//    public void findday_7() {
-//        calDate.findDay(2016.1,1,13);
-//        assertEquals(-1,calDate.getFindday());
-//    }
+    @Test
+    public void findday_7() {
+        calDate.findDay(2016.1,1,13);
+        assertEquals(-1,calDate.getFindday());
+    }
     @Test
     public void findday_8() {
         calDate.findDay(1999,0,13);
@@ -66,21 +66,21 @@ public class CalculateDateTestWeakStrong2 {
         calDate.findDay(1999,13,13);
         assertEquals(-2,calDate.getFindday());
     }
-//    @Test
-//    public void findday_10() {
-//        calDate.findDay(1999.1,1,13);
-//        assertEquals(-2,calDate.getFindday());
-//    }
+    @Test
+    public void findday_10() {
+        calDate.findDay(1999,1.1,13);
+        assertEquals(-2,calDate.getFindday());
+    }
     @Test
     public void findday_11() {
         calDate.findDay(1999,1,0);
         assertEquals(-3,calDate.getFindday());
     }
-//    @Test
-//    public void findday_12() {
-//        calDate.findDay(1999,1,1.1);
-//        assertEquals(-3,calDate.getFindday());
-//    }
+    @Test
+    public void findday_12() {
+        calDate.findDay(1999,1,1.1);
+        assertEquals(-3,calDate.getFindday());
+    }
     @Test
     public void findday_13() {
         calDate.findDay(1999,11,32);
