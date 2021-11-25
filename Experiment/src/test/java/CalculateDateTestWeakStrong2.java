@@ -3,7 +3,7 @@ import org.junit.*;
 import static org.junit.Assert.assertEquals;
 
 
-public class CalculateDateTestWeakStrong {
+public class CalculateDateTestWeakStrong2 {
     private static CalculateDate calDate = new CalculateDate();
     @BeforeClass
     public static void setupBeforClass() throws Exception{

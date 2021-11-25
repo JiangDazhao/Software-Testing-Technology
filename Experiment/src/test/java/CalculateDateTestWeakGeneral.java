@@ -1,7 +1,6 @@
 import org.junit.*;
 import static org.junit.Assert.*;
 
-
 public class CalculateDateTestWeakGeneral {
 
     private static CalculateDate calDate = new CalculateDate();
@@ -45,9 +44,5 @@ public class CalculateDateTestWeakGeneral {
     public void findday_5() {
         calDate.findDay(2017,3,31);
         assertEquals(5,calDate.getFindday());
-    }
-    @Ignore
-    public void multiple() {
-        fail("Not yet implemented");
     }
 }
