@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ecd18cbe-7f84-4d93-a7e3-9f3b59ba4283" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../4.数据驱动测试代码/TestDataDrivenByCSVFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.数据驱动测试代码/TestDataDrivenByExcelFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.数据驱动测试代码/TestDataDrivenByMysqlDatabase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.数据驱动测试代码/__MACOSX/._util" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.数据驱动测试代码/__MACOSX/util/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.数据驱动测试代码/__MACOSX/util/._MysqlUnit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.数据驱动测试代码/util/CsvUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.数据驱动测试代码/util/ExcelUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.数据驱动测试代码/util/MysqlUnit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment/JunitExp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment/src/main/java/CalculateDate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment/src/main/java/CalculateDate2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment/src/test/java/CalculateDateTestWeakGeneral.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment/src/test/java/CalculateDateTestWeakStrong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment/src/test/java/CalculateDateTestWeakStrong2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment/target/classes/CalculateDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment/target/classes/CalculateDate2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment/target/classes/META-INF/Experiment.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment/target/test-classes/CalculateDateTestWeakGeneral.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment/target/test-classes/CalculateDateTestWeakStrong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment/target/test-classes/CalculateDateTestWeakStrong2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment/target/test-classes/META-INF/Experiment.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment/~$实验报告.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment/~WRL1793.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment/实验报告.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJUnit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJUnit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dataProvider_test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dataProvider_test/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Environment/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="C:\Environment\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="21glZavAS1o0r1UUPjm1e1N9HDU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecd18cbe-7f84-4d93-a7e3-9f3b59ba4283" name="Default Changelist" comment="" />
+      <created>1638370667165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638370667165</updated>
+      <workItem from="1638370670795" duration="2000" />
+    </task>
+    <servers />
+  </component>
+</project>
