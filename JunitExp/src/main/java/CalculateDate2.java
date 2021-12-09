@@ -1,15 +1,9 @@
 import java.util.Scanner;
 
 public class CalculateDate2 {
-    public double year=0;
-    public double month=0;
-    public double day=0;
-    int findday=0;
-
-
-    public int getFindday() {
-        return findday;
-    }
+    public double year;
+    public double month;
+    public double day;
 
     public int findDay(double year,double month,double day)
     {
@@ -18,16 +12,34 @@ public class CalculateDate2 {
         double days_1=0;
         double days_2=0;
         double days=0;
+        int findday=0;
+
         //年月日是否越界
-        findday=judgeValid(year,month,day);
-        if(findday!=0){
-            return findday;
+        if(year<=0)
+        {
+            return -1;
+        }
+        if(month<=0||month>=13)
+        {
+            return -1;
+        }
+        if(day<=0||day>=32)
+        {
+            return -1;
         }
 
         //年月日是否为整数
-        findday=judgeInteger(year,month,day);
-        if(findday!=0){
-            return findday;
+        if((int)year!=year)
+        {
+            return -1;
+        }
+        if((int)month!=month)
+        {
+            return -1;
+        }
+        if((int)day!=day)
+        {
+            return -1;
         }
 
         //判断第1年到第year-1年中闰年的个数
@@ -81,41 +93,6 @@ public class CalculateDate2 {
         //5:Friday
         //6:Saturday
         return findday;
-    }
-
-    //判断输入的年月日是否超界
-    public static int judgeValid(double year,double month,double day)
-    {
-        if(year<=0)
-        {
-            return -1;
-        }
-        if(month<=0||month>=13)
-        {
-            return -2;
-        }
-        if(day<=0||day>=32)
-        {
-            return -3;
-        }
-        return 0;
-    }
-
-    //判断年月日是否为整数
-    public static int judgeInteger(double year,double month,double day){
-        if((int)year!=year)
-        {
-            return -1;
-        }
-        if((int)month!=month)
-        {
-            return -2;
-        }
-        if((int)day!=day)
-        {
-            return -3;
-        }
-        return 0;
     }
 
 }

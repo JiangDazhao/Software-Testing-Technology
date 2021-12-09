@@ -2,18 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36cf278f-dfd1-4cca-93b5-4575c4bc0d0e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../WebDriverTest/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebDriverTest/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebDriverTest/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebDriverTest/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebDriverTest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebDriverTest/WebDriverTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebDriverTest/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebDriverTest/src/main/java/WebTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebDriverTest/src/main/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment/Experiment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment/src/main/java/CalculateDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment/src/test/java/CalculateDateTestStrongGeneral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment/src/test/java/CalculateDateTestWeakGeneral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment/src/test/java/CalculateDateTestWeakStrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment/target/classes/CalculateDate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment/target/test-classes/CalculateDateTestStrongGeneral.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment/target/test-classes/CalculateDateTestWeakGeneral.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment/target/test-classes/CalculateDateTestWeakStrong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment/~$实验报告.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment/~WRL1793.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment/实验报告.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/WebDriverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/WebDriverTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dataProvider_test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dataProvider_test/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,6 +161,9 @@
       <workItem from="1637163620040" duration="276000" />
       <workItem from="1637193734377" duration="549000" />
       <workItem from="1637194346884" duration="1112000" />
+      <workItem from="1637754493145" duration="130000" />
+      <workItem from="1637767675015" duration="141000" />
+      <workItem from="1637768336438" duration="4228000" />
     </task>
     <servers />
   </component>
@@ -168,6 +178,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="143" y="0" key="#All_in_LearnJUnit/0.0.1280.680@0.0.1280.680" timestamp="1637155767174" />
+    <state x="690" y="217" key="FileChooserDialogImpl" timestamp="1637767679030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="217" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1637767679030" />
     <state width="1227" height="110" key="GridCell.Tab.0.bottom" timestamp="1637194289019">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -196,10 +210,11 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="390" y="0" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1637150916238" />
-    <state x="0" y="0" key="new project wizard" timestamp="1637194026720">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="115" y="184" key="new project wizard" timestamp="1637754556307">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1637194026720" />
+    <state x="115" y="184" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1637754556307" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LearnJUnit$CalculatorTest_testDivideByZero.ic" NAME="CalculatorTest.testDivideByZero Coverage Results" MODIFIED="1637151576765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

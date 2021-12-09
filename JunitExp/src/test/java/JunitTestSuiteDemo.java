@@ -3,7 +3,7 @@ import junit.framework.*;
 public class JunitTestSuiteDemo {
     public static TestSuite suite(){
         // Create TestSuite Class testSuite
-        TestSuite testSuite = new TestSuite("First Try TestSuite");
+        TestSuite testSuite = new TestSuite("WeakStrong TestSuite");
 
         // Add test set to testSuite
         testSuite.addTestSuite(JunitTestCaseDemo.class);

@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecd18cbe-7f84-4d93-a7e3-9f3b59ba4283" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CalculateDate2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/CsvUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/JiTest.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestDataDrivenJiPath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../4.数据驱动测试代码/TestDataDrivenByCSVFile.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../4.数据驱动测试代码/TestDataDrivenByExcelFile.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../4.数据驱动测试代码/TestDataDrivenByMysqlDatabase.java" beforeDir="false" />
@@ -48,10 +42,10 @@
       <change beforePath="$PROJECT_DIR$/../JunitExp/target/test-classes/CalculateDateTestWeakStrong2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JunitExp/target/test-classes/CalculateDateTestWeakStrong2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JunitExp/target/test-classes/JunitTestCaseDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JunitExp/target/test-classes/JunitTestCaseDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JunitExp/target/test-classes/JunitTestSuiteDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JunitExp/target/test-classes/JunitTestSuiteDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JunitExp/~$实验报告.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../JunitExp/实验报告.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../JunitExp/实验报告.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LearnJUnit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJUnit/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dataProvider_test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dataProvider_test/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -155,7 +149,7 @@
       <workItem from="1638370670795" duration="2582000" />
       <workItem from="1638962725006" duration="2094000" />
       <workItem from="1639005024925" duration="72000" />
-      <workItem from="1639005127502" duration="5286000" />
+      <workItem from="1639005127502" duration="5575000" />
     </task>
     <servers />
   </component>
@@ -183,22 +177,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="217" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1639005173498" />
-    <state width="1227" height="6" key="GridCell.Tab.0.bottom" timestamp="1639012997530">
+    <state width="1227" height="158" key="GridCell.Tab.0.bottom" timestamp="1639050953607">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1227" height="6" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1639012997530" />
-    <state width="1227" height="6" key="GridCell.Tab.0.center" timestamp="1639012997529">
+    <state width="1227" height="158" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1639050953607" />
+    <state width="1227" height="158" key="GridCell.Tab.0.center" timestamp="1639050953607">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1227" height="6" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1639012997529" />
-    <state width="1227" height="6" key="GridCell.Tab.0.left" timestamp="1639012997529">
+    <state width="1227" height="158" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1639050953607" />
+    <state width="1227" height="158" key="GridCell.Tab.0.left" timestamp="1639050953606">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1227" height="6" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1639012997529" />
-    <state width="1227" height="6" key="GridCell.Tab.0.right" timestamp="1639012997529">
+    <state width="1227" height="158" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1639050953606" />
+    <state width="1227" height="158" key="GridCell.Tab.0.right" timestamp="1639050953607">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1227" height="6" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1639012997529" />
+    <state width="1227" height="158" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1639050953607" />
     <state x="330" y="75" key="SettingsEditor" timestamp="1639005147616">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
