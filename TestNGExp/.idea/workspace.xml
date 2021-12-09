@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecd18cbe-7f84-4d93-a7e3-9f3b59ba4283" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CalculateDate2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/CsvUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/JiTest.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestDataDrivenJiPath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../4.数据驱动测试代码/TestDataDrivenByCSVFile.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../4.数据驱动测试代码/TestDataDrivenByExcelFile.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../4.数据驱动测试代码/TestDataDrivenByMysqlDatabase.java" beforeDir="false" />
@@ -34,13 +40,27 @@
       <change beforePath="$PROJECT_DIR$/../Experiment/~$实验报告.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Experiment/~WRL1793.tmp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Experiment/实验报告.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JunitExp/src/main/java/CalculateDate2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JunitExp/src/main/java/CalculateDate2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JunitExp/src/test/java/CalculateDateTestWeakStrong2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JunitExp/src/test/java/CalculateDateTestWeakStrong2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JunitExp/src/test/java/JunitTestCaseDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JunitExp/src/test/java/JunitTestCaseDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JunitExp/src/test/java/JunitTestSuiteDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JunitExp/src/test/java/JunitTestSuiteDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JunitExp/target/classes/CalculateDate2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JunitExp/target/classes/CalculateDate2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JunitExp/target/test-classes/CalculateDateTestWeakStrong2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JunitExp/target/test-classes/CalculateDateTestWeakStrong2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JunitExp/target/test-classes/JunitTestCaseDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JunitExp/target/test-classes/JunitTestCaseDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JunitExp/target/test-classes/JunitTestSuiteDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JunitExp/target/test-classes/JunitTestSuiteDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JunitExp/实验报告.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../JunitExp/实验报告.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LearnJUnit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJUnit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dataProvider_test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dataProvider_test/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -52,6 +72,11 @@
         <option name="userSettingsFile" value="C:\Environment\apache-maven-3.6.1\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
@@ -61,20 +86,61 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="21glZavAS1o0r1UUPjm1e1N9HDU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JunitExp" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="RainbowCSV.Settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestDataDrivenJiPath">
+    <configuration name="TestDataDrivenJiPath (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGExp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestDataDrivenJiPath" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDataDrivenJiPath" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGExp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestDataDrivenJiPath" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestDataDrivenJiPath" />
+        <item itemvalue="TestNG.TestDataDrivenJiPath (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -86,8 +152,56 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638370667165</updated>
-      <workItem from="1638370670795" duration="2000" />
+      <workItem from="1638370670795" duration="2582000" />
+      <workItem from="1638962725006" duration="2094000" />
+      <workItem from="1639005024925" duration="72000" />
+      <workItem from="1639005127502" duration="5286000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="266" y="0" key="#Project_Structure" timestamp="1638403140854">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="266" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1638403140854" />
+    <state x="452" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1638370773912" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1639013013646">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1639013013646" />
+    <state x="635" y="303" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1639005060078">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="635" y="303" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1639005060078" />
+    <state x="690" y="217" key="FileChooserDialogImpl" timestamp="1639005173498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="217" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1639005173498" />
+    <state width="1227" height="6" key="GridCell.Tab.0.bottom" timestamp="1639012997530">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1227" height="6" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1639012997530" />
+    <state width="1227" height="6" key="GridCell.Tab.0.center" timestamp="1639012997529">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1227" height="6" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1639012997529" />
+    <state width="1227" height="6" key="GridCell.Tab.0.left" timestamp="1639012997529">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1227" height="6" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1639012997529" />
+    <state width="1227" height="6" key="GridCell.Tab.0.right" timestamp="1639012997529">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1227" height="6" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1639012997529" />
+    <state x="330" y="75" key="SettingsEditor" timestamp="1639005147616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="330" y="75" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1639005147616" />
   </component>
 </project>
