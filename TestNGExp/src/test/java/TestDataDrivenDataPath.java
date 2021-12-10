@@ -1,10 +1,9 @@
 import org.testng.annotations.*;
-import util.CsvUtil;
-import java.io.IOException;
-import static org.junit.Assert.*;
-
-public class TestDataDrivenJiPath {
-    public static String filePath = "src/main/resources/JiTest.csv";//文件相对路径
+        import util.CsvUtil;
+        import java.io.IOException;
+        import static org.junit.Assert.*;
+public class TestDataDrivenDataPath {
+    public static String filePath = "src/main/resources/DataTest.csv";//文件相对路径
 
     @DataProvider(name = "testData")
     public static Object[][] words() throws IOException{
@@ -19,7 +18,6 @@ public class TestDataDrivenJiPath {
         int a =Integer.parseInt(findDay.trim());
         assertEquals(a,result);
     }
-
 
     @BeforeTest
     public void start() throws Exception {

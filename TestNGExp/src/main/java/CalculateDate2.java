@@ -11,34 +11,10 @@ public class CalculateDate2 {
         double days_2=0;
         double days=0;
         int findday=0;
+        int inputValid;
 
-        //年月日是否越界
-        if(year<=0)
-        {
-            return -1;
-        }
-        if(month<=0||month>=13)
-        {
-            return -1;
-        }
-        if(day<=0||day>=32)
-        {
-            return -1;
-        }
-
-        //年月日是否为整数
-        if((int)year!=year)
-        {
-            return -1;
-        }
-        if((int)month!=month)
-        {
-            return -1;
-        }
-        if((int)day!=day)
-        {
-            return -1;
-        }
+        inputValid=judgeValid(year, month, day);
+        if (inputValid==-1) return -1;
 
         //判断第1年到第year-1年中闰年的个数
         int i;
@@ -63,8 +39,7 @@ public class CalculateDate2 {
                 case 5:
                 case 7:
                 case 8:
-                case 10:
-                case 12: days_2 += 31;break;
+                case 10:days_2 += 31;break;
                 case 4:
                 case 6:
                 case 9:
@@ -93,4 +68,35 @@ public class CalculateDate2 {
         return findday;
     }
 
+    public int judgeValid(double year,double month,double day)
+    {
+        //年月日是否越界
+        if(year<=0)
+        {
+            return -1;
+        }
+        if(month<=0||month>=13)
+        {
+            return -1;
+        }
+        if(day<=0||day>=32)
+        {
+            return -1;
+        }
+
+        //年月日是否为整数
+        if((int)year!=year)
+        {
+            return -1;
+        }
+        if((int)month!=month)
+        {
+            return -1;
+        }
+        if((int)day!=day)
+        {
+            return -1;
+        }
+        return 0;
+    }
 }

@@ -2,51 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecd18cbe-7f84-4d93-a7e3-9f3b59ba4283" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../4.数据驱动测试代码/TestDataDrivenByCSVFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.数据驱动测试代码/TestDataDrivenByExcelFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.数据驱动测试代码/TestDataDrivenByMysqlDatabase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.数据驱动测试代码/__MACOSX/._util" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.数据驱动测试代码/__MACOSX/util/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.数据驱动测试代码/__MACOSX/util/._MysqlUnit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.数据驱动测试代码/util/CsvUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.数据驱动测试代码/util/ExcelUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.数据驱动测试代码/util/MysqlUnit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Experiment/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Experiment/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Experiment/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Experiment/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Experiment/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Experiment/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Experiment/JunitExp.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Experiment/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Experiment/src/main/java/CalculateDate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Experiment/src/main/java/CalculateDate2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Experiment/src/test/java/CalculateDateTestWeakGeneral.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Experiment/src/test/java/CalculateDateTestWeakStrong.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Experiment/src/test/java/CalculateDateTestWeakStrong2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Experiment/target/classes/CalculateDate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Experiment/target/classes/CalculateDate2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Experiment/target/classes/META-INF/Experiment.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Experiment/target/test-classes/CalculateDateTestWeakGeneral.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Experiment/target/test-classes/CalculateDateTestWeakStrong.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Experiment/target/test-classes/CalculateDateTestWeakStrong2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Experiment/target/test-classes/META-INF/Experiment.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Experiment/~$实验报告.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Experiment/~WRL1793.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Experiment/实验报告.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JunitExp/src/main/java/CalculateDate2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JunitExp/src/main/java/CalculateDate2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JunitExp/src/test/java/CalculateDateTestWeakStrong2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JunitExp/src/test/java/CalculateDateTestWeakStrong2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JunitExp/src/test/java/JunitTestCaseDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JunitExp/src/test/java/JunitTestCaseDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JunitExp/src/test/java/JunitTestSuiteDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JunitExp/src/test/java/JunitTestSuiteDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JunitExp/target/classes/CalculateDate2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JunitExp/target/classes/CalculateDate2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JunitExp/target/test-classes/CalculateDateTestWeakStrong2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JunitExp/target/test-classes/CalculateDateTestWeakStrong2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JunitExp/target/test-classes/JunitTestCaseDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JunitExp/target/test-classes/JunitTestCaseDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JunitExp/target/test-classes/JunitTestSuiteDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JunitExp/target/test-classes/JunitTestSuiteDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JunitExp/~$实验报告.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JunitExp/实验报告.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../JunitExp/实验报告.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LearnJUnit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJUnit/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/DataTest.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/PrimeTest.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestDataDrivenDataPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestDataDrivenPrimePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/TestNGExp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/TestNGExp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-TestDataDrivenJiPath.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/TestNGExp.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../~$8106840727_蒋旭钊.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../~WRL0003.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../918106840727_蒋旭钊.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../918106840727_蒋旭钊.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dataProvider_test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dataProvider_test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CalculateDate2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CalculateDate2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/JiTest.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/JiTest.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestDataDrivenJiPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestDataDrivenJiPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CalculateDate2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CalculateDate2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JiTest.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JiTest.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestDataDrivenJiPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestDataDrivenJiPath.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,13 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -106,11 +113,11 @@
       <recent name="util" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestDataDrivenJiPath">
-    <configuration name="TestDataDrivenJiPath (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.TestDataDrivenDataPath">
+    <configuration name="TestDataDrivenDataPath" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGExp" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestDataDrivenJiPath" />
+      <option name="MAIN_CLASS_NAME" value="TestDataDrivenDataPath" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -129,10 +136,57 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestDataDrivenJiPath.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGExp" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CalculateDate2" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestDataDrivenJiPath" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDataDrivenPrimePath" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGExp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestDataDrivenPrimePath" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.TestDataDrivenJiPath.test" />
+      <item itemvalue="TestNG.TestDataDrivenJiPath" />
+      <item itemvalue="TestNG.TestDataDrivenPrimePath" />
+      <item itemvalue="TestNG.TestDataDrivenDataPath" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestDataDrivenDataPath" />
+        <item itemvalue="TestNG.TestDataDrivenPrimePath" />
         <item itemvalue="TestNG.TestDataDrivenJiPath" />
-        <item itemvalue="TestNG.TestDataDrivenJiPath (1)" />
+        <item itemvalue="TestNG.TestDataDrivenJiPath.test" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +203,8 @@
       <workItem from="1638370670795" duration="2582000" />
       <workItem from="1638962725006" duration="2094000" />
       <workItem from="1639005024925" duration="72000" />
-      <workItem from="1639005127502" duration="5575000" />
+      <workItem from="1639005127502" duration="14570000" />
+      <workItem from="1639179667812" duration="276000" />
     </task>
     <servers />
   </component>
@@ -165,37 +220,53 @@
     </state>
     <state x="266" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1638403140854" />
     <state x="452" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1638370773912" />
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1639013013646">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1639127071946">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1639013013646" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1639127071946" />
     <state x="635" y="303" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1639005060078">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="635" y="303" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1639005060078" />
-    <state x="690" y="217" key="FileChooserDialogImpl" timestamp="1639005173498">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="308" y="81" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1639127069278">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="308" y="81" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1639127069278" />
+    <state x="309" y="27" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1639125489857">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="309" y="27" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1280.680@0.0.1280.680" timestamp="1639125489857" />
+    <state x="460" y="75" key="FileChooserDialogImpl" timestamp="1639125670408">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="460" y="75" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1639125670408" />
     <state x="690" y="217" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1639005173498" />
-    <state width="1227" height="158" key="GridCell.Tab.0.bottom" timestamp="1639050953607">
+    <state width="1227" height="267" key="GridCell.Tab.0.bottom" timestamp="1639180116963">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1227" height="158" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1639050953607" />
-    <state width="1227" height="158" key="GridCell.Tab.0.center" timestamp="1639050953607">
+    <state width="1227" height="267" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1639180116963" />
+    <state width="1227" height="267" key="GridCell.Tab.0.center" timestamp="1639180116963">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1227" height="158" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1639050953607" />
-    <state width="1227" height="158" key="GridCell.Tab.0.left" timestamp="1639050953606">
+    <state width="1227" height="267" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1639180116963" />
+    <state width="1227" height="267" key="GridCell.Tab.0.left" timestamp="1639180116963">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1227" height="158" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1639050953606" />
-    <state width="1227" height="158" key="GridCell.Tab.0.right" timestamp="1639050953607">
+    <state width="1227" height="267" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1639180116963" />
+    <state width="1227" height="267" key="GridCell.Tab.0.right" timestamp="1639180116963">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1227" height="158" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1639050953607" />
+    <state width="1227" height="267" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1639180116963" />
     <state x="330" y="75" key="SettingsEditor" timestamp="1639005147616">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="330" y="75" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1639005147616" />
+    <state x="402" y="126" key="export.test.results" timestamp="1639126449236">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="402" y="126" key="export.test.results/0.0.1280.680@0.0.1280.680" timestamp="1639126449236" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TestNGExp$TestDataDrivenJiPath.ic" NAME="TestDataDrivenJiPath Coverage Results" MODIFIED="1639127184246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

@@ -1,13 +1,13 @@
 import org.testng.annotations.*;
 import util.CsvUtil;
-import java.io.IOException;
 import static org.junit.Assert.*;
+import java.io.IOException;
 
-public class TestDataDrivenJiPath {
-    public static String filePath = "src/main/resources/JiTest.csv";//文件相对路径
+public class TestDataDrivenPrimePath {
+    public static String filePath = "src/main/resources/PrimeTest.csv";//文件相对路径
 
     @DataProvider(name = "testData")
-    public static Object[][] words() throws IOException{
+    public static Object[][] words() throws IOException {
         return CsvUtil.getTestData(filePath);
     }
 
