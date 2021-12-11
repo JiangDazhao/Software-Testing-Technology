@@ -2,51 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecd18cbe-7f84-4d93-a7e3-9f3b59ba4283" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/DataTest.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/PrimeTest.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestDataDrivenDataPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestDataDrivenPrimePath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/TestNGExp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/TestNGExp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/bullet_point.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/collapseall.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/failed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-TestDataDrivenJiPath.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/navigator-bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/TestNGExp.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/passed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/skipped.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../~$8106840727_蒋旭钊.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../~WRL0003.tmp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../918106840727_蒋旭钊.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../918106840727_蒋旭钊.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CalculateDate2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CalculateDate2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/JiTest.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/JiTest.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestDataDrivenJiPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestDataDrivenJiPath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CalculateDate2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CalculateDate2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JiTest.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JiTest.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestDataDrivenJiPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestDataDrivenJiPath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~$8106840727_蒋旭钊.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../~$8106840727_蒋旭钊.doc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,6 +163,7 @@
       <workItem from="1639005024925" duration="72000" />
       <workItem from="1639005127502" duration="14570000" />
       <workItem from="1639179667812" duration="276000" />
+      <workItem from="1639180045825" duration="743000" />
     </task>
     <servers />
   </component>
@@ -241,22 +200,22 @@
     </state>
     <state x="460" y="75" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1639125670408" />
     <state x="690" y="217" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1639005173498" />
-    <state width="1227" height="267" key="GridCell.Tab.0.bottom" timestamp="1639180116963">
+    <state width="1227" height="267" key="GridCell.Tab.0.bottom" timestamp="1639181003220">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1227" height="267" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1639180116963" />
-    <state width="1227" height="267" key="GridCell.Tab.0.center" timestamp="1639180116963">
+    <state width="1227" height="267" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1639181003220" />
+    <state width="1227" height="267" key="GridCell.Tab.0.center" timestamp="1639181003220">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1227" height="267" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1639180116963" />
-    <state width="1227" height="267" key="GridCell.Tab.0.left" timestamp="1639180116963">
+    <state width="1227" height="267" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1639181003220" />
+    <state width="1227" height="267" key="GridCell.Tab.0.left" timestamp="1639181003220">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1227" height="267" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1639180116963" />
-    <state width="1227" height="267" key="GridCell.Tab.0.right" timestamp="1639180116963">
+    <state width="1227" height="267" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1639181003220" />
+    <state width="1227" height="267" key="GridCell.Tab.0.right" timestamp="1639181003220">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1227" height="267" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1639180116963" />
+    <state width="1227" height="267" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1639181003220" />
     <state x="330" y="75" key="SettingsEditor" timestamp="1639005147616">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
